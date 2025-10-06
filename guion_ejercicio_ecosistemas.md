@@ -75,8 +75,11 @@ Disponemos de un mapa de distribución de los ecosistemas con los que trabajamos
 - **Bosques de ribera**:
   - Mapa de *Populus*
   - Mapa de *Salix*
+- **Borreguiles**
+  - Mapa de *Carex nigra*
+  
 
-Además de incluir los mapas de las especies que te correspondan, deberás de incluir en el documento una explicación detallada sobre el procedimiento que has seguido con el SIG para generar dicha información. Esta explicación será calificada para la asignatura de SIG.
+Además de incluir los mapas de las especies que te correspondan, deberás de incluir en el documento una discusión ecológica sobre la distribución de las especies estudiadas. Analiza, por ejemplo, cómo se distribuyen en función del clima, la orientación, la geología o cualquier otra variable que consideres relevantes. 
 
 
 
@@ -92,7 +95,7 @@ Además de incluir un histograma, es fundamental describirlo. Es decir, analizar
 
 
 
-### Dinámica demográfica de las especies responsables de la estructura de cada ecosistema
+### Dinámica demográfica de las especies que aportan estructura de cada ecosistema
 
 La sección anterior nos permitió generar un histograma de frecuencias del tamaño/edad de los individuos de la población. Con esa información podemos inferir cómo se comportará el ecosistema a lo largo del tiempo, pero se trata de una fotografía fija de la dinámica poblacional. En esta práctica usamos Vensim para simular el comportamiento de la población en a lo largo del tiempo. En [este](https://raw.githack.com/aprendiendo-cosas/P_modelizacion_interacciones_ecologia_ccaa/2024_2025/guion_practica_modelizacion.html) guión puedes ver (Sección 7) cómo generar un modelo de dinámica poblacional de los distintos ecosistemas de Sierra Nevada. En el guión mencionado hay instrucciones específicas para cada tipo de ecosistema.
 
