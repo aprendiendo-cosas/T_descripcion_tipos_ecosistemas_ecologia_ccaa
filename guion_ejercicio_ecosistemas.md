@@ -30,7 +30,7 @@ La finalidad última de este guión describir el trabajo de caracterización de 
 
 ## Características del trabajo
 
-Antes de detallar el "cómo" se presentará el trabajo, repasemos brevemente en qué consiste. Para ello, lo primero que debes de hacer es releer [este](https://raw.githack.com/aprendiendo-cosas/P_plan_practicas_ccaa/2024_2025/guion_plan_practicas.html) guión en el que se describen las prácticas de la asignatura de ecología. En él verás que el objetivo de las prácticas es generar un documento en el que se describen distintos tipos de ecosistema presentes en Sierra Nevada. En cada práctica hemos trabajado un aspecto concreto de dichos ecosistemas. También en las prácticas de SIG se han enseñado técnicas de manejo de información que serán útiles para caracterizar los ecosistemas. De manera resumida, tendrás que generar la siguiente información sobre cada tipo de ecosistema:
+Antes de detallar el "cómo" se presentará el trabajo, repasemos brevemente en qué consiste. Para ello, lo primero que debes de hacer es releer [este](https://raw.githack.com/aprendiendo-cosas/P_plan_practicas_ccaa/2024_2025/guion_plan_practicas.html) guión en el que se describen las prácticas de la asignatura de ecología. En él verás que el objetivo de las prácticas es generar un documento en el que se describen distintos tipos de ecosistema presentes en Sierra Nevada. En cada práctica hemos trabajado un aspecto concreto de dichos ecosistemas. También en las prácticas de SIG se han enseñado técnicas de manejo de información espacial que serán útiles para caracterizar los ecosistemas. De manera resumida, tendrás que generar la siguiente información sobre cada tipo de ecosistema:
 
 
 
@@ -46,17 +46,15 @@ Para preparar este texto debes de tener en cuenta los métodos descritos en la p
 
 ### Caracterización de los factores abióticos de los ecosistemas
 
-JORGE, NO SÉ SI ESTO AL FINAL LO PUEDES CONTAR TÚ O LO INDICO YO CON MÁS DETALLE AQUÍ. 
-
 Para conocer bien la estructura y funcionamiento de un ecosistema es importante saber cuál es el contexto de variables abióticas: clima, relieve, etc. En una práctica de la asignatura de SIG, aprenderéis cómo extraer los valores promedios de altitud, precipitación y temperatura de los ecosistemas con los que estamos trabajando. 
 
-La información para hacer lo anterior está disponible de manera provisional [aquí](https://portalrediam.cica.es/descargas/index.php/s/mxHMWXyHfrCxyNK?path=%2F04_RECURSOS_NATURALES%2F03_CLIMA%2F03_CAMBIO_CLIMATICO%2F03_PRECIPITACION%2F06_TREINTENA%2FESC_PRECIP_MEDIAS_TREINTENA_2000_2100) para la precipitación y [aquí](https://portalrediam.cica.es/descargas/index.php/s/mxHMWXyHfrCxyNK?path=%2F04_RECURSOS_NATURALES%2F03_CLIMA%2F03_CAMBIO_CLIMATICO%2F02_TEMPERATURA%2F06_TREINTENA%2FESC_TEMP_MEDIAS_TREINTENA_2000_2100) para la temperatura. En unos días, tendré fuentes de datos más fiables y fáciles de procesar sobre este asunto. En cuanto los tenga, los pondré por aquí. 
+Los valores de elevación se pueden extraer del DEM que habéis usado en las prácticas de SIG y que está disponible en el Moodle de la asignatura. La información para el análisis de las variables climáticas  está disponible de manera provisional [aquí](https://portalrediam.cica.es/descargas/index.php/s/mxHMWXyHfrCxyNK?path=%2F04_RECURSOS_NATURALES%2F03_CLIMA%2F03_CAMBIO_CLIMATICO%2F03_PRECIPITACION%2F06_TREINTENA%2FESC_PRECIP_MEDIAS_TREINTENA_2000_2100) para la precipitación y [aquí](https://portalrediam.cica.es/descargas/index.php/s/mxHMWXyHfrCxyNK?path=%2F04_RECURSOS_NATURALES%2F03_CLIMA%2F03_CAMBIO_CLIMATICO%2F02_TEMPERATURA%2F06_TREINTENA%2FESC_TEMP_MEDIAS_TREINTENA_2000_2100) para la temperatura. En unos días, tendré fuentes de datos más fiables y fáciles de procesar sobre este asunto. En cuanto los tenga, los pondré por aquí. 
 
 
 
 ### Distribución de las especies más importantes de tu ecosistema
 
-Disponemos de un mapa de distribución de los ecosistemas con los que trabajamos ([aquí](https://github.com/aprendiendo-cosas/P_shannon_ecologia_ccaa/raw/refs/tags/2024_2025/geoinfo/ecosistemas_snev_dissolve.zip) puedes descargarlo). Sin embargo, resulta interesante analizar la distribución de las principales especies que constituyen los ecosistemas. En una práctica de SIG has trabajado con datos de [GBIF](https://www.gbif.org/) para hacer precisament esto, generar un mapa de distribución de las especies clave de los ecosistemas. Con lo que has aprendido en SIG te resultará fácil generar mapas de distribución de las principales especies que dan estructura al ecosistema con el que estás trabajando. Concretamente, tendrás que incluir en este trabajo, mapas de distribución de las siguientes especies:
+Disponemos de un mapa de distribución de los ecosistemas con los que trabajamos ([aquí](https://github.com/aprendiendo-cosas/P_shannon_ecologia_ccaa/raw/refs/tags/2024_2025/geoinfo/ecosistemas_snev_dissolve.zip) puedes descargarlo). Sin embargo, resulta interesante analizar la distribución de las principales especies que constituyen los ecosistemas. En una práctica de SIG has trabajado con datos de [GBIF](https://www.gbif.org/) para hacer precisament esto, generar un mapa de distribución de las especies clave de los ecosistemas. Con lo que has aprendido en SIG te resultará fácil generar mapas de distribución de las principales especies que dan estructura al ecosistema con el que estás trabajando. Concretamente, tendrás que incluir en este trabajo, mapas de distribución de las siguientes especies en función del ecosistema con el que estés trabajando:
 
 - **Encinar**: Mapa de distribución de *Quercus ilex*. Recuerda que también tiene como sinónimo *Quercus rotundifolia*.
 - **Pinares de repoblación:**
@@ -110,11 +108,11 @@ Después de conocer la estructura de la población más importante del ecosistem
 
 ### Funcionamiento de los ecosistemas
 
-Tras analizar algunos elementos estructurales, es el momento de conocer mejor cómo funciona el ecosistema. En concreto, trabajamos con la producción primaria, que es fácilmente cuantificable usando imágenes de satélite. Al final del guión correspondiente ([aquí](https://raw.githack.com/aprendiendo-cosas/P_NDVI_ecologia_ccaa/2024-2025/guion_ndvi.html)) puedes ver con detalle lo que os recomiendo incluir sobre este aspecto. Lo resumo aquí también:
+Tras analizar algunos elementos estructurales, es el momento de conocer mejor cómo funciona el ecosistema. En concreto, trabajamos con la producción primaria, que es fácilmente cuantificable usando imágenes de satélite. Al final del guión correspondiente ([aquí](https://raw.githack.com/aprendiendo-cosas/P_NDVI_ecologia_ccaa/2024-2025/guion_ndvi.html)) puedes ver con detalle lo que os recomendamos incluir sobre este aspecto. Lo resumimos aquí también:
 
 + Valor promedio de la tendencia de NDVI para cada ecosistema. Se muestra como una tabla que tendrá un valor para cada ecosistema. Nos permitirá comparar si hay diferencias entre las tendencias de NDVI de distintos ecosistemas. Podremos contestar a preguntas de este tipo: ¿tienen los pastizales de alta montaña (por ejemplo) una tendencia más intensa hacia producir más biomasa que los encinares?
 + Valor promedio del NDVI para cada ecosistema. Esto nos dará información sobre la biomasa fotosintéticamente activa que hay en cada tipo de ecosistema. Podremos saber si, por ejemplo, los encinares tienen más biomasa que los bosques de ribera.
-+ También se pueden generar mapas de tendencias de NDVI o del NDVI promedio de cada ecosistema. Para hacer esto, bastará con recortar los rasters obtenidos en la práctica con la delimitación de cada tipo de ecosistema (herramienta "cortar raster por capa de máscara" en QGIS). 
++ También se pueden generar mapas de tendencias de NDVI o del NDVI promedio de cada ecosistema. Para hacer esto, bastará aplicar a Sierra Nevada lo que habéis aprendido en SIG con otra zona. Es decir, tendréis que generar el raster con esta información y luego recortarlo.  
 
 De nuevo, deberás describir con detalle cómo usas los SIG para generar la información anterior. Redundará en la calificación de la asignatura de SIG.
 
@@ -126,9 +124,13 @@ El siguiente nivel de complejidad consiste en caracterizar qué tipo de servicio
 
 
 
-## Presentación del trabajo
+## Presentación del trabajo: fechas de entrega y criterios de calificación
 
-Como ya comentamos en clase, la idea es que cada persona genere una especie de ficha sintética para cada tipo de ecosistema. Se trata de un documento con no demasiado texto, pero rico en esquemas, gráficos, imágenes y mapas. Para presentarlo generaremos una página web sencilla que contenga dicho material. En esta sección se describe cómo construir dicha web.
+Dado que este trabajo sirve para dos asignaturas, tendréis que presentar dos documentos diferentes que serán calificados con criterios diferentes pero complementarios:
+
+### Para la asignatura de ecología
+
+La idea es que cada persona genere una especie de ficha sintética para cada tipo de ecosistema. Se trata de un documento con no demasiado texto, pero rico en esquemas, gráficos, imágenes y mapas. Para presentarlo generaremos una página web sencilla que contenga dicho material. En esta sección se describe cómo construir dicha web.
 
 Usaremos *Google sites* para crear y publicar la página web. Se trata de un servicio de Google muy fácil de utilizar que nos permite crear páginas con contenido diverso en muy poco tiempo.
 
@@ -138,13 +140,38 @@ El siguiente vídeo muestra cómo crear la página web en *Google Sites*:
 
 
 
-Además de lo que se dice en el vídeo, podéis incluir en los textos comentarios sobre cómo habéis procesado los datos o los problemas con los que os habéis encontrado. También cualquier otra información que consideréis relevante.
+La web será evaluada y calificada según los criterios descritos en esta rúbrica:
 
 
 
-## Fecha, modo de entrega y criterios de calificación
 
-AQUÍ PONDREMOS UNA RÚBRICA QUE AÚN FALTA POR CONSENSUAR TANTO PARA ECOLOGÍA COMO PARA SIG
+
+
+
+
+
+
+
+### Para la asignatura de SIG
+
+Tendréis que escribir un documento que describa paso a paso cómo habéis generado la información correspondiente a los siguientes apartados:
+
++ Caracterización de los factores abióticos.
++ Mapa de distribución de especies dominantes de cada ecosistema.
++ Caracterización de la producción primaria de los ecosistemas mediante teledetección (NDVI). 
+
+El trabajo se calificará según la siguiente rúbrica:
+
+
+
+| Criterio                           | Insuficiente                                   | Aceptable                                                    | Bien                                                         | Excelente                                                    |
+| ---------------------------------- | ---------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Guía paso a paso                   | No se ha presentado nada o está mal realizado. | Se explica muy brevemente lo que se ha hecho. En los apartados en que se usa GEE se incluye el código sin formato ni comentarios. | Se explica brevemente lo que se ha hecho y se incluyen capturas de pantalla. En los apartados en que se usa GEE se incluye el código sin formato, pero con comentarios. | Se explica detalladamente lo que se ha hecho y se incluyen capturas de pantalla. En los apartados en que se usa GEE se incluye el código con formato y comentarios. |
+| Caracterización factores abióticos | No se ha presentado nada o está mal realizado. | Sólo se incluye una tabla con valores medios de las variables estudiadas. | Se incluye una tabla con varios parámetros de estadística descriptiva. | Además de la tabla con la estadística descriptiva se incluyen mapas de las variables estudiadas. |
+| Mapa de distribución de especies   | No se ha presentado nada o está mal realizado. | El mapa no está completo, falta alguno de los elementos obligatorios. | El mapa está completo.                                       | El mapa está completo y se incluye algún comentario sobre la distribución espacial de la(s) especies(s) incluida(s). |
+| Producción primaria (NDVI)         | No se ha presentado nada o está mal realizado. | Sólo se ha llevado a cabo el estudio interanual o el intra-anual. | Se han llevado a cabo los dos estudios.                      | Se han llevado a cabo los dos estudios y además se han incluido mapas. |
+
+
 
 
 
