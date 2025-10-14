@@ -1,7 +1,7 @@
 # Instrucciones para realizar el trabajo final sobre las prácticas de ecología
 
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span> 
-> + **_Versión_**: 2024-2025
+> + **_Versión_**: 2025-2026
 > + **_Asignaturas (grado)_**: SIG (CCAA) y Ecología (CCAA)
 > + **_Autores_**: Jorge Torres Sánchez (o22tosaj@uco.es ) y Curro Bonet-García (fjbonet@uco.es)
 > + **_Duración_**: Unas 5 horas en casa.
