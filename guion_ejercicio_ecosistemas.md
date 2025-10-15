@@ -157,7 +157,7 @@ El trabajo será evaluado y calificada según los criterios descritos en esta r�
 | Caracterización de los servicios ecosistémicos (10%)         | No se identifican adecuadamente los servicios del ecosistema estudiado | Se identifican bien casi todos los servicios, pero no se describen adecuadamente | Se caracterizan con detalle los servicios más relevantes del ecosistema en cuestión y se esbozan formas de cuantificarlos | Además, se comparan los resultados con los de otros ecosistemas |
 | Presentación de la web (5%)                                  | La presentación deja mucho que desear. No hay imágenes y los textos son deficientes | El material está desordenado, las figuras no están bien descritas. Poco legible. | Todo el material está dispuesto de manera adecuada en la página | Además de lo anterior, hay información relevante no solicitada explicítamente en las instrucciones: vídeos, animaciones, etc. |
 
-La fecha límite de entrega de la página web será el día 8 de enero de 2026 a las 23:59.
+La fecha límite de entrega de la página web será el día **8 de enero de 2026** a las 23:59.
 
 
 
@@ -181,6 +181,8 @@ El trabajo se calificará según la siguiente rúbrica:
 | Producción primaria (NDVI) (35%)         | No se ha presentado nada o está mal realizado. | Sólo se ha llevado a cabo el estudio interanual o el intra-anual. | Se han llevado a cabo los dos estudios.                      | Se han llevado a cabo los dos estudios y además se han incluido mapas. |
 
 
+
+La fecha de entrega límite para este documento es el **8 de diciembre de 2025** a las 23:59
 
 
 
