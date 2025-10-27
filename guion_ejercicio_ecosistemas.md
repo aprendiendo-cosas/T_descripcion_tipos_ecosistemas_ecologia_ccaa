@@ -54,32 +54,9 @@ Los valores de elevación se pueden extraer del DEM que habéis usado en las pr�
 
 ### Distribución de las especies más importantes de tu ecosistema
 
-Disponemos de un mapa de distribución de los ecosistemas con los que trabajamos ([aquí](https://github.com/aprendiendo-cosas/P_shannon_ecologia_ccaa/raw/refs/tags/2024_2025/geoinfo/ecosistemas_snev_dissolve.zip) puedes descargarlo). Sin embargo, resulta interesante analizar la distribución de las principales especies que constituyen los ecosistemas. En una práctica de SIG has trabajado con datos de [GBIF](https://www.gbif.org/) para hacer precisament esto, generar un mapa de distribución de las especies clave de los ecosistemas. Con lo que has aprendido en SIG te resultará fácil generar mapas de distribución de las principales especies que dan estructura al ecosistema con el que estás trabajando. Concretamente, tendrás que incluir en este trabajo, mapas de distribución de las siguientes especies en función del ecosistema con el que estés trabajando:
+Disponemos de un mapa de distribución de los ecosistemas con los que trabajamos ([aquí](https://github.com/aprendiendo-cosas/T_descripcion_tipos_ecosistemas_ecologia_ccaa/raw/refs/heads/main/geoinfo/ecosistemas_snev_dissolve.zip) puedes descargarlo). Además de esto, resulta interesante analizar la distribución de las principales especies que constituyen los ecosistemas. En una práctica de SIG has trabajado con datos de [GBIF](https://www.gbif.org/) para hacer precisamente esto, generar un mapa de distribución de las especies clave de los ecosistemas. Con lo que has aprendido en SIG te resultará fácil generar mapas de distribución de las principales especies que dan estructura al ecosistema con el que estás trabajando. 
 
-- **Encinar**: Mapa de distribución de *Quercus ilex*. Recuerda que también tiene como sinónimo *Quercus rotundifolia*.
-- **Pinares de repoblación:**
-  - Mapa de *Pinus halepensis*
-  - Mapa de *Pinus pinaster*
-  - Mapa de *Pinus nigra*
-  - Mapa de *Pinus sylvestris*
-- **Robledales**: Mapa de distribución de *Quercus pyrenaica*
-- **Matorrales mediterráneos**:
-  - Mapa de *Rosmarinus*
-  - Mapa de los tomillos más comunes (*Thymus mastichina, Thymus vulgaris* y *Thymus zygis*)
-  - Mapa de las jaras más comunes (*Cistus*)
-- **Piornales y enebrales de alta montaña**:
-  - Mapa de *Juniperus hemisphaerica, Juniperus communis subsp. nana, Juniperus nana* y *Juniperus sabina*
-  - Mapa de *Genista versicolor*
-- **Pastizales de alta montaña**:
-  - Mapa de *Arenaria pungens*
-- **Bosques de ribera**:
-  - Mapa de *Populus*
-  - Mapa de *Salix*
-- **Borreguiles**
-  - Mapa de *Carex nigra*
-  
-
-Además de incluir los mapas de las especies que te correspondan, deberás de incluir en el documento una discusión ecológica sobre la distribución de las especies estudiadas. Analiza, por ejemplo, cómo se distribuyen en función del clima, la orientación, la geología o cualquier otra variable que consideres relevantes. 
+Para aprender a hacer esto, lee este guión que contiene todos los detalles que necesitas.
 
 
 
