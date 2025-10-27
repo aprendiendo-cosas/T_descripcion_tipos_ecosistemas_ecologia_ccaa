@@ -56,7 +56,7 @@ Los valores de elevación se pueden extraer del DEM que habéis usado en las pr�
 
 Disponemos de un mapa de distribución de los ecosistemas con los que trabajamos ([aquí](https://github.com/aprendiendo-cosas/T_descripcion_tipos_ecosistemas_ecologia_ccaa/raw/refs/heads/main/geoinfo/ecosistemas_snev_dissolve.zip) puedes descargarlo). Además de esto, resulta interesante analizar la distribución de las principales especies que constituyen los ecosistemas. En una práctica de SIG has trabajado con datos de [GBIF](https://www.gbif.org/) para hacer precisamente esto, generar un mapa de distribución de las especies clave de los ecosistemas. Con lo que has aprendido en SIG te resultará fácil generar mapas de distribución de las principales especies que dan estructura al ecosistema con el que estás trabajando. 
 
-Para aprender a hacer esto, lee este guión que contiene todos los detalles que necesitas.
+Para aprender a hacer esto, lee [este](https://aprendiendo-cosas.github.io/P_area_distribucion_especies_ecologia_sig_ccaa/guion_area_distribucion.html) guión que contiene todos los detalles que necesitas.
 
 
 
@@ -64,7 +64,7 @@ Para aprender a hacer esto, lee este guión que contiene todos los detalles que 
 ### Estructura de las poblaciones de la especie clave de tu ecosistema
 En los ecosistemas terrestres suele predominar una especie que es la que le da el nombre al ecosistema o la que condiciona fundamentalmente su estructura. La estructura de edades o de tamaños de la población de esa especie nos da información muy relevante sobre cómo puede funcionar el ecosistema. Así que, tendrás que generar un histograma de frecuencias que muestre la estructura poblacional de la especie que es responsable de la estructura del ecosistema en cuestión. 
 
-A modo de recordatorio, [aquí](https://rawcdn.githack.com/aprendiendo-cosas/P_estructura_pobs_ecologia_CCAA/2024-2025/guion_estructura_poblaciones.html) está el guión en el que se describe cómo hicimos esto. 
+A modo de recordatorio, [aquí](https://rawcdn.githack.com/aprendiendo-cosas/P_estructura_pobs_ecologia_CCAA/2025_2026/guion_estructura_poblaciones.html) está el guión en el que se describe cómo hicimos esto. 
 
 Dependiendo del ecosistema en cuestión, el histograma tendrá formas diferentes. Además, podrá haber distintos histogramas por ecosistema según el caso. También puedes generar histogramas a partir de fuentes de datos diferentes a las vistas en clase.
 
@@ -80,7 +80,7 @@ La sección anterior nos permitió generar un histograma de frecuencias del tama
 
 ### Diversidad de los ecosistemas 
 
-Después de conocer la estructura de la población más importante del ecosistema en cuestión, llega el momento de hablar de la diversidad de especies que tiene. Con esta parte entramos en el ámbito de las comunidades ecológicas y las caracterizamos usando su descriptor más importante: la diversidad. En esta ocasión se realizará un análisis comparativo de la diversidad de todos los ecosistemas estudiados. En [este](https://raw.githack.com/aprendiendo-cosas/P_shannon_ecologia_ccaa/2024_2025/guion_practica_mapa_biodiversidad.html) guión se describe esta práctica. Al final del mismo podrás ver exactamente lo que tienes que generar para el ecosistema que te corresponda. Ahí va un resumen:
+Después de conocer la estructura de la población más importante del ecosistema en cuestión, llega el momento de hablar de la diversidad de especies que tiene. Con esta parte entramos en el ámbito de las comunidades ecológicas y las caracterizamos usando su descriptor más importante: la diversidad. En esta ocasión se realizará un análisis comparativo de la diversidad de todos los ecosistemas estudiados. En [este](https://raw.githack.com/aprendiendo-cosas/P_shannon_ecologia_ccaa/main/guion_practica_mapa_biodiversidad.html) guión se describe esta práctica. Al final del mismo podrás ver exactamente lo que tienes que generar para el ecosistema que te corresponda. Ahí va un resumen:
 + Tabla mostrando la diversidad de cada tipo de ecosistema. Tendrás que marcar con un color diferente el ecosistema que te haya tocado. También explicar por qué tu ecosistema tiene la diversidad que tiene en comparación con los demás. 
 + Mapa de la diversidad del ecosistema seleccionado. Esto no es obligatorio, pero es fácil de hacer. Basta con hacer un clip (herramienta "cortar raster por capa de máscara" en QGIS) entre la capa raster con el índice de Shannon que obtuvimos para toda Sierra Nevada y la delimitación de tu ecosistema. Este mapa te dará información sobre cómo se distribuye la diversidad dentro del ecosistema. Podrás contestar a preguntas como: ¿cómo varía la distribución del ecosistema A de este a oeste? ¿a qué se debe ese patrón?. Si incluyes este mapa, analízalo a la luz de lo visto en la asignatura. Describe también cómo has hecho este proceso con SIG.
 
