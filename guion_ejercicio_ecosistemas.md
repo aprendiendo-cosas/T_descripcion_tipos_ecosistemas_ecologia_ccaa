@@ -34,7 +34,7 @@ Antes de detallar el "cómo" se presentará el trabajo, repasemos brevemente en 
 
 
 
-### Texto e imágenes mostrando características generales del ecosistema
+### 1. Texto e imágenes mostrando características generales del ecosistema
 
 A modo de introducción tienes que preparar un breve texto describiendo el ecosistema con el que estás trabajando. Incluye imágenes tomadas de cuando fuimos a Sierra Nevada u otras diferentes. También puedes incluir anotaciones que hayas hecho durante la salida. 
 
@@ -44,24 +44,24 @@ Para preparar este texto debes de tener en cuenta los métodos descritos en la p
 
 
 
-### Caracterización de los factores abióticos de los ecosistemas
+### 2. Caracterización de los factores abióticos de los ecosistemas
 
 Para conocer bien la estructura y funcionamiento de un ecosistema es importante saber cuál es el contexto de variables abióticas: clima, relieve, etc. En una práctica de la asignatura de SIG, aprenderéis cómo extraer los valores promedios de altitud, precipitación y temperatura de los ecosistemas con los que estamos trabajando. 
 
-Los valores de elevación se pueden extraer del DEM que habéis usado en las prácticas de SIG y que está disponible en el Moodle de la asignatura. La información para el análisis de las variables climáticas  está disponible de manera provisional [aquí](https://portalrediam.cica.es/descargas/index.php/s/mxHMWXyHfrCxyNK?path=%2F04_RECURSOS_NATURALES%2F03_CLIMA%2F03_CAMBIO_CLIMATICO%2F03_PRECIPITACION%2F06_TREINTENA%2FESC_PRECIP_MEDIAS_TREINTENA_2000_2100) para la precipitación y [aquí](https://portalrediam.cica.es/descargas/index.php/s/mxHMWXyHfrCxyNK?path=%2F04_RECURSOS_NATURALES%2F03_CLIMA%2F03_CAMBIO_CLIMATICO%2F02_TEMPERATURA%2F06_TREINTENA%2FESC_TEMP_MEDIAS_TREINTENA_2000_2100) para la temperatura. En unos días, tendré fuentes de datos más fiables y fáciles de procesar sobre este asunto. En cuanto los tenga, los pondré por aquí. 
+En [este](https://aprendiendo-cosas.github.io/P_factores_abioticos_ecologia_ccaa/guion_factores_abioticos.html) guión tienes información detallada sobre cómo generar esta información para tu ecosistema. 
 
 
 
-### Distribución de las especies más importantes de tu ecosistema
+### 3. Distribución de las especies más importantes de tu ecosistema
 
-Disponemos de un mapa de distribución de los ecosistemas con los que trabajamos ([aquí](https://github.com/aprendiendo-cosas/T_descripcion_tipos_ecosistemas_ecologia_ccaa/raw/refs/heads/main/geoinfo/ecosistemas_snev_dissolve.zip) puedes descargarlo). Además de esto, resulta interesante analizar la distribución de las principales especies que constituyen los ecosistemas. En una práctica de SIG has trabajado con datos de [GBIF](https://www.gbif.org/) para hacer precisamente esto, generar un mapa de distribución de las especies clave de los ecosistemas. Con lo que has aprendido en SIG te resultará fácil generar mapas de distribución de las principales especies que dan estructura al ecosistema con el que estás trabajando. 
+Disponemos de un mapa de distribución de los ecosistemas con los que trabajamos. Además de esto, resulta interesante analizar la distribución de las principales especies que constituyen los ecosistemas. En una práctica de SIG has trabajado con datos de [GBIF](https://www.gbif.org/) para hacer precisamente esto, generar un mapa de distribución de las especies clave de los ecosistemas. Con lo que has aprendido en SIG te resultará fácil generar mapas de distribución de las principales especies que dan estructura al ecosistema con el que estás trabajando. 
 
 Para aprender a hacer esto, lee [este](https://aprendiendo-cosas.github.io/P_area_distribucion_especies_ecologia_sig_ccaa/guion_area_distribucion.html) guión que contiene todos los detalles que necesitas.
 
 
 
 
-### Estructura de las poblaciones de la especie clave de tu ecosistema
+### 4. Estructura de las poblaciones de la especie clave de tu ecosistema
 En los ecosistemas terrestres suele predominar una especie que es la que le da el nombre al ecosistema o la que condiciona fundamentalmente su estructura. La estructura de edades o de tamaños de la población de esa especie nos da información muy relevante sobre cómo puede funcionar el ecosistema. Así que, tendrás que generar un histograma de frecuencias que muestre la estructura poblacional de la especie que es responsable de la estructura del ecosistema en cuestión. 
 
 A modo de recordatorio, [aquí](https://rawcdn.githack.com/aprendiendo-cosas/P_estructura_pobs_ecologia_CCAA/2025_2026/guion_estructura_poblaciones.html) está el guión en el que se describe cómo hicimos esto. 
@@ -72,13 +72,13 @@ Además de incluir un histograma, es fundamental describirlo. Es decir, analizar
 
 
 
-### Dinámica demográfica de las especies que aportan estructura de cada ecosistema
+### 5. Dinámica demográfica de las especies que aportan estructura de cada ecosistema (TODAVÍA NO LO HEMOS VISTO EN CLASE)
 
 La sección anterior nos permitió generar un histograma de frecuencias del tamaño/edad de los individuos de la población. Con esa información podemos inferir cómo se comportará el ecosistema a lo largo del tiempo, pero se trata de una fotografía fija de la dinámica poblacional. En esta práctica usamos Vensim para simular el comportamiento de la población en a lo largo del tiempo. En [este](https://raw.githack.com/aprendiendo-cosas/P_modelizacion_interacciones_ecologia_ccaa/2024_2025/guion_practica_modelizacion.html) guión puedes ver (Sección 7) cómo generar un modelo de dinámica poblacional de los distintos ecosistemas de Sierra Nevada. En el guión mencionado hay instrucciones específicas para cada tipo de ecosistema.
 
 
 
-### Diversidad de los ecosistemas 
+### 6. Diversidad de los ecosistemas 
 
 Después de conocer la estructura de la población más importante del ecosistema en cuestión, llega el momento de hablar de la diversidad de especies que tiene. Con esta parte entramos en el ámbito de las comunidades ecológicas y las caracterizamos usando su descriptor más importante: la diversidad. En esta ocasión se realizará un análisis comparativo de la diversidad de todos los ecosistemas estudiados. En [este](https://raw.githack.com/aprendiendo-cosas/P_shannon_ecologia_ccaa/main/guion_practica_mapa_biodiversidad.html) guión se describe esta práctica. Al final del mismo podrás ver exactamente lo que tienes que generar para el ecosistema que te corresponda. Ahí va un resumen:
 + Tabla mostrando la diversidad de cada tipo de ecosistema. Tendrás que marcar con un color diferente el ecosistema que te haya tocado. También explicar por qué tu ecosistema tiene la diversidad que tiene en comparación con los demás. 
@@ -86,7 +86,7 @@ Después de conocer la estructura de la población más importante del ecosistem
 
 
 
-### Funcionamiento de los ecosistemas
+### 7. Funcionamiento de los ecosistemas (TODAVÍA NO LO HEMOS VISTO EN CLASE)
 
 Tras analizar algunos elementos estructurales, es el momento de conocer mejor cómo funciona el ecosistema. En concreto, trabajamos con la producción primaria, que es fácilmente cuantificable usando imágenes de satélite. Al final del guión correspondiente ([aquí](https://raw.githack.com/aprendiendo-cosas/P_NDVI_ecologia_ccaa/2024-2025/guion_ndvi.html)) puedes ver con detalle lo que os recomendamos incluir sobre este aspecto. Lo resumimos aquí también:
 
@@ -98,7 +98,7 @@ De nuevo, deberás describir con detalle cómo usas los SIG para generar la info
 
 
 
-### Caracterización de los servicios ecosistémicos
+### 8. Caracterización de los servicios ecosistémicos (TODAVÍA NO LO HEMOS VISTO EN CLASE)
 
 El siguiente nivel de complejidad consiste en caracterizar qué tipo de servicios puede proveer cada uno de los ecosistemas estudiados. Es la primera vez que hacemos esto y aún no hemos preparado el material. Esta sección se completará en unas semanas.
 
