@@ -40,7 +40,7 @@ A modo de introducción tienes que preparar un breve texto describiendo el ecosi
 
 Tanto durante la salida de como en vuestras búsquedas por internet, habréis tomado conciencia de los principales problemas de gestión del ecosistema sobre el que habéis trabajado. Sería interesante enumerar y describir brevemente dichos problemas. Podéis añadir fotos o imágenes a esta descripción. 
 
-Para preparar este texto debes de tener en cuenta los métodos descritos en la primera práctica ([Búsqueda de información sobre los ecosistemas de Sierra Nevada](https://rawcdn.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/main/guion_practica_biblio.html). Debes de indicar de dónde sacas la información. Pon en práctica también las [normas que tenemos para el uso de las IA](https://rawcdn.githack.com/aprendiendo-cosas/competencias_transversales/f0dfaf0f6e3b2ec7943a52da02dcb767d7fdb95f/normas_IA/normas_IA.html).
+Para preparar este texto debes de tener en cuenta los métodos descritos en la primera práctica ([Búsqueda de información sobre los ecosistemas de Sierra Nevada](https://rawcdn.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2025_2026/guion_practica_biblio.html). Debes de indicar de dónde sacas la información. Pon en práctica también las [normas que tenemos para el uso de las IA](https://aprendiendo-cosas.github.io/competencias_transversales/normas_IA/normas_IA.html).
 
 
 
