@@ -88,7 +88,7 @@ Después de conocer la estructura de la población más importante del ecosistem
 
 ### 7. Funcionamiento de los ecosistemas (TODAVÍA NO LO HEMOS VISTO EN CLASE)
 
-Tras analizar algunos elementos estructurales, es el momento de conocer mejor cómo funciona el ecosistema. En concreto, trabajamos con la producción primaria, que es fácilmente cuantificable usando imágenes de satélite. Al final del guión correspondiente ([aquí](https://raw.githack.com/aprendiendo-cosas/P_NDVI_ecologia_ccaa/2024-2025/guion_ndvi.html)) puedes ver con detalle lo que os recomendamos incluir sobre este aspecto. Lo resumimos aquí también:
+Tras analizar algunos elementos estructurales, es el momento de conocer mejor cómo funciona el ecosistema. En concreto, trabajamos con la producción primaria, que es fácilmente cuantificable usando imágenes de satélite. Al final del guión correspondiente ([aquí](https://aprendiendo-cosas.github.io/P_NDVI_ecologia_ccaa/guion_ndvi.html)) puedes ver con detalle lo que os recomendamos incluir sobre este aspecto. Lo resumimos aquí también:
 
 + Valor promedio de la tendencia de NDVI para cada ecosistema. Se muestra como una tabla que tendrá un valor para cada ecosistema. Nos permitirá comparar si hay diferencias entre las tendencias de NDVI de distintos ecosistemas. Podremos contestar a preguntas de este tipo: ¿tienen los pastizales de alta montaña (por ejemplo) una tendencia más intensa hacia producir más biomasa que los encinares?
 + Valor promedio del NDVI para cada ecosistema. Esto nos dará información sobre la biomasa fotosintéticamente activa que hay en cada tipo de ecosistema. Podremos saber si, por ejemplo, los encinares tienen más biomasa que los bosques de ribera.
