@@ -86,7 +86,7 @@ Después de conocer la estructura de la población más importante del ecosistem
 
 
 
-### 7. Funcionamiento de los ecosistemas (TODAVÍA NO LO HEMOS VISTO EN CLASE)
+### 7. Funcionamiento de los ecosistemas 
 
 Tras analizar algunos elementos estructurales, es el momento de conocer mejor cómo funciona el ecosistema. En concreto, trabajamos con la producción primaria, que es fácilmente cuantificable usando imágenes de satélite. Al final del guión correspondiente ([aquí](https://aprendiendo-cosas.github.io/P_NDVI_ecologia_ccaa/guion_ndvi.html)) puedes ver con detalle lo que os recomendamos incluir sobre este aspecto. Lo resumimos aquí también:
 
