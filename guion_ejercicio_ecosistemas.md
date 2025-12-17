@@ -72,9 +72,9 @@ Además de incluir un histograma, es fundamental describirlo. Es decir, analizar
 
 
 
-### 5. Dinámica demográfica de las especies que aportan estructura de cada ecosistema (TODAVÍA NO LO HEMOS VISTO EN CLASE)
+### 5. Dinámica demográfica de las especies que aportan estructura de cada ecosistema
 
-La sección anterior nos permitió generar un histograma de frecuencias del tamaño/edad de los individuos de la población. Con esa información podemos inferir cómo se comportará el ecosistema a lo largo del tiempo, pero se trata de una fotografía fija de la dinámica poblacional. En esta práctica usamos Vensim para simular el comportamiento de la población en a lo largo del tiempo. En [este](https://raw.githack.com/aprendiendo-cosas/P_modelizacion_interacciones_ecologia_ccaa/2024_2025/guion_practica_modelizacion.html) guión puedes ver (Sección 7) cómo generar un modelo de dinámica poblacional de los distintos ecosistemas de Sierra Nevada. En el guión mencionado hay instrucciones específicas para cada tipo de ecosistema.
+La sección anterior nos permitió generar un histograma de frecuencias del tamaño/edad de los individuos de la población. Con esa información podemos inferir cómo se comportará el ecosistema a lo largo del tiempo, pero se trata de una fotografía fija de la dinámica poblacional. En esta práctica usamos Vensim para simular el comportamiento de la población en a lo largo del tiempo. En [este](https://raw.githack.com/aprendiendo-cosas/P_modelizacion_interacciones_ecologia_ccaa/2025_2026/guion_practica_modelizacion.html) guión puedes ver (Sección 7) cómo generar un modelo de dinámica poblacional de los distintos ecosistemas de Sierra Nevada. En el guión mencionado hay instrucciones específicas para cada tipo de ecosistema.
 
 
 
@@ -97,10 +97,6 @@ Tras analizar algunos elementos estructurales, es el momento de conocer mejor c�
 De nuevo, deberás describir con detalle cómo usas los SIG para generar la información anterior. Redundará en la calificación de la asignatura de SIG.
 
 
-
-### 8. Caracterización de los servicios ecosistémicos (TODAVÍA NO LO HEMOS VISTO EN CLASE)
-
-El siguiente nivel de complejidad consiste en caracterizar qué tipo de servicios puede proveer cada uno de los ecosistemas estudiados. Es la primera vez que hacemos esto y aún no hemos preparado el material. Esta sección se completará en unas semanas.
 
 
 
