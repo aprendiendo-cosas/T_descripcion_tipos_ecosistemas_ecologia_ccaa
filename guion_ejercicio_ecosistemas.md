@@ -6,7 +6,7 @@
 > + **_Autores_**: Jorge Torres Sánchez (o22tosaj@uco.es ) y Curro Bonet-García (fjbonet@uco.es)
 > + **_Duración_**: Unas 5 horas en casa.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/T_descripcion_tipos_ecosistemas_ecologia_ccaa/refs/heads/main/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/T_descripcion_tipos_ecosistemas_ecologia_ccaa/refs/tags/2025_2026/imagenes/portada.png)
 
 
 
@@ -30,7 +30,7 @@ La finalidad última de este guión describir el trabajo de caracterización de 
 
 ## Características del trabajo
 
-Antes de detallar el "cómo" se presentará el trabajo, repasemos brevemente en qué consiste. Para ello, lo primero que debes de hacer es releer [este](https://raw.githack.com/aprendiendo-cosas/P_plan_practicas_ccaa/2024_2025/guion_plan_practicas.html) guión en el que se describen las prácticas de la asignatura de ecología. En él verás que el objetivo de las prácticas es generar un documento en el que se describen distintos tipos de ecosistema presentes en Sierra Nevada. En cada práctica hemos trabajado un aspecto concreto de dichos ecosistemas. También en las prácticas de SIG se han enseñado técnicas de manejo de información espacial que serán útiles para caracterizar los ecosistemas. De manera resumida, tendrás que generar la siguiente información sobre cada tipo de ecosistema:
+Antes de detallar el "cómo" se presentará el trabajo, repasemos brevemente en qué consiste. Para ello, lo primero que debes de hacer es releer [este](https://raw.githack.com/aprendiendo-cosas/P_plan_practicas_ccaa/2025_2026/guion_plan_practicas.html) guión en el que se describen las prácticas de la asignatura de ecología. En él verás que el objetivo de las prácticas es generar un documento en el que se describen distintos tipos de ecosistema presentes en Sierra Nevada. En cada práctica hemos trabajado un aspecto concreto de dichos ecosistemas. También en las prácticas de SIG se han enseñado técnicas de manejo de información espacial que serán útiles para caracterizar los ecosistemas. De manera resumida, tendrás que generar la siguiente información sobre cada tipo de ecosistema:
 
 
 
@@ -48,7 +48,7 @@ Para preparar este texto debes de tener en cuenta los métodos descritos en la p
 
 Para conocer bien la estructura y funcionamiento de un ecosistema es importante saber cuál es el contexto de variables abióticas: clima, relieve, etc. En una práctica de la asignatura de SIG, aprenderéis cómo extraer los valores promedios de altitud, precipitación y temperatura de los ecosistemas con los que estamos trabajando. 
 
-En [este](https://aprendiendo-cosas.github.io/P_factores_abioticos_ecologia_ccaa/guion_factores_abioticos.html) guión tienes información detallada sobre cómo generar esta información para tu ecosistema. 
+En [este](https://rawcdn.githack.com/aprendiendo-cosas/P_factores_abioticos_ecologia_ccaa/2025-2026/guion_factores_abioticos.html) guión tienes información detallada sobre cómo generar esta información para tu ecosistema. 
 
 
 
@@ -56,7 +56,7 @@ En [este](https://aprendiendo-cosas.github.io/P_factores_abioticos_ecologia_ccaa
 
 Disponemos de un mapa de distribución de los ecosistemas con los que trabajamos. Además de esto, resulta interesante analizar la distribución de las principales especies que constituyen los ecosistemas. En una práctica de SIG has trabajado con datos de [GBIF](https://www.gbif.org/) para hacer precisamente esto, generar un mapa de distribución de las especies clave de los ecosistemas. Con lo que has aprendido en SIG te resultará fácil generar mapas de distribución de las principales especies que dan estructura al ecosistema con el que estás trabajando. 
 
-Para aprender a hacer esto, lee [este](https://aprendiendo-cosas.github.io/P_area_distribucion_especies_ecologia_sig_ccaa/guion_area_distribucion.html) guión que contiene todos los detalles que necesitas.
+Para aprender a hacer esto, lee [este](https://rawcdn.githack.com/aprendiendo-cosas/P_area_distribucion_especies_ecologia_sig_ccaa/2025_2026/guion_area_distribucion.html) guión que contiene todos los detalles que necesitas.
 
 
 
@@ -80,7 +80,7 @@ La sección anterior nos permitió generar un histograma de frecuencias del tama
 
 ### 6. Diversidad de los ecosistemas 
 
-Después de conocer la estructura de la población más importante del ecosistema en cuestión, llega el momento de hablar de la diversidad de especies que tiene. Con esta parte entramos en el ámbito de las comunidades ecológicas y las caracterizamos usando su descriptor más importante: la diversidad. En esta ocasión se realizará un análisis comparativo de la diversidad de todos los ecosistemas estudiados. En [este](https://raw.githack.com/aprendiendo-cosas/P_shannon_ecologia_ccaa/main/guion_practica_mapa_biodiversidad.html) guión se describe esta práctica. Al final del mismo podrás ver exactamente lo que tienes que generar para el ecosistema que te corresponda. Ahí va un resumen:
+Después de conocer la estructura de la población más importante del ecosistema en cuestión, llega el momento de hablar de la diversidad de especies que tiene. Con esta parte entramos en el ámbito de las comunidades ecológicas y las caracterizamos usando su descriptor más importante: la diversidad. En esta ocasión se realizará un análisis comparativo de la diversidad de todos los ecosistemas estudiados. En [este](https://raw.githack.com/aprendiendo-cosas/P_shannon_ecologia_ccaa/2025_2026/guion_practica_mapa_biodiversidad.html) guión se describe esta práctica. Al final del mismo podrás ver exactamente lo que tienes que generar para el ecosistema que te corresponda. Ahí va un resumen:
 + Tabla mostrando la diversidad de cada tipo de ecosistema. Tendrás que marcar con un color diferente el ecosistema que te haya tocado. También explicar por qué tu ecosistema tiene la diversidad que tiene en comparación con los demás. 
 + Mapa de la diversidad del ecosistema seleccionado. Esto no es obligatorio, pero es fácil de hacer. Basta con hacer un clip (herramienta "cortar raster por capa de máscara" en QGIS) entre la capa raster con el índice de Shannon que obtuvimos para toda Sierra Nevada y la delimitación de tu ecosistema. Este mapa te dará información sobre cómo se distribuye la diversidad dentro del ecosistema. Podrás contestar a preguntas como: ¿cómo varía la distribución del ecosistema A de este a oeste? ¿a qué se debe ese patrón?. Si incluyes este mapa, analízalo a la luz de lo visto en la asignatura. Describe también cómo has hecho este proceso con SIG.
 
@@ -88,7 +88,7 @@ Después de conocer la estructura de la población más importante del ecosistem
 
 ### 7. Funcionamiento de los ecosistemas 
 
-Tras analizar algunos elementos estructurales, es el momento de conocer mejor cómo funciona el ecosistema. En concreto, trabajamos con la producción primaria, que es fácilmente cuantificable usando imágenes de satélite. Al final del guión correspondiente ([aquí](https://aprendiendo-cosas.github.io/P_NDVI_ecologia_ccaa/guion_ndvi.html)) puedes ver con detalle lo que os recomendamos incluir sobre este aspecto. Lo resumimos aquí también:
+Tras analizar algunos elementos estructurales, es el momento de conocer mejor cómo funciona el ecosistema. En concreto, trabajamos con la producción primaria, que es fácilmente cuantificable usando imágenes de satélite. Al final del guión correspondiente ([aquí](https://rawcdn.githack.com/aprendiendo-cosas/P_NDVI_ecologia_ccaa/2025_2026/guion_ndvi.html)) puedes ver con detalle lo que os recomendamos incluir sobre este aspecto. Lo resumimos aquí también:
 
 + Valor promedio de la tendencia de NDVI para cada ecosistema. Se muestra como una tabla que tendrá un valor para cada ecosistema. Nos permitirá comparar si hay diferencias entre las tendencias de NDVI de distintos ecosistemas. Podremos contestar a preguntas de este tipo: ¿tienen los pastizales de alta montaña (por ejemplo) una tendencia más intensa hacia producir más biomasa que los encinares?
 + Valor promedio del NDVI para cada ecosistema. Esto nos dará información sobre la biomasa fotosintéticamente activa que hay en cada tipo de ecosistema. Podremos saber si, por ejemplo, los encinares tienen más biomasa que los bosques de ribera.
@@ -121,16 +121,15 @@ El trabajo será evaluado y calificada según los criterios descritos en esta r�
 | Criterio                                                     | Novato (1-4)                                                 | En desarrollo (5-6)                                          | Competente (7-8)                                             | Sobresaliente (9-10)                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Caracterización general del ecosistema con texto e imágenes (5%) | Texto manifiestamente mejorable tanto en cuanto a contenidos como a calidad de la redacción. No usa ni las fuentes bibliográficas aportadas en clase. | Mucho margen de mejora en la elaboración del texto. No se alinea bien con los objetivos del trabajo. Hay rastro de uso de IA o pegado sin edición. Pobre material gráfico. Escasa bibliografía. | Redacción aceptable aunque aún poca integración de contenidos. El texto se parece a las fuentes mencionadas. Pocas imágenes mal conectadas con el mensaje. Pocas referencias bibliográficas | Texto muy elaborado que se ajusta a la realidad del ecosistema. Imágenes alineadas con el trabajo. Información capturada en campo. Buena colección de referencias bibliográficas. |
-| Caracterización de factores abióticos (10%)                  | Deficiente elección de variables o cuantificación incorrecta de las mismas. Los datos mostrados no se ajustan al ecosistema estudiado | La parte analítica está razonablemente bien, pero no hay una discusión ecológica válida que explique la estructura y funcionamiento del ecosistema en función de las variables abióticas | Tanto la parte analítica como la discusión ecológica son adecuadas y permiten entender bien la estructura y funcionamiento del ecosistema | Además de lo anterior, se comparan los resultados obtenidos con los de otros ecosistemas y se discuten las diferencias ecológicas |
-| Distribución de las especies importantes del ecosistema (10%) | Los mapas de distribución no se realizan correctamente o se usan datos inapropiados | Los mapas se realizan de forma correcta, pero no hay una discusión ecológica sobre la distribución de las especies clave ni se relaciona con la estructura del ecosistema | Tanto la parte analítica como la discusión ecológica son adecuadas y permiten entender bien la estructura y funcionamiento del ecosistema | Además de lo anterior, se describe cómo las especies importantes del ecosistema también pueden estar en otros tipos de ecosistemas diferentes al objetivo |
+| Caracterización de factores abióticos (15%)                  | Deficiente elección de variables o cuantificación incorrecta de las mismas. Los datos mostrados no se ajustan al ecosistema estudiado | La parte analítica está razonablemente bien, pero no hay una discusión ecológica válida que explique la estructura y funcionamiento del ecosistema en función de las variables abióticas | Tanto la parte analítica como la discusión ecológica son adecuadas y permiten entender bien la estructura y funcionamiento del ecosistema | Además de lo anterior, se comparan los resultados obtenidos con los de otros ecosistemas y se discuten las diferencias ecológicas |
+| Distribución de las especies importantes del ecosistema (15%) | Los mapas de distribución no se realizan correctamente o se usan datos inapropiados | Los mapas se realizan de forma correcta, pero no hay una discusión ecológica sobre la distribución de las especies clave ni se relaciona con la estructura del ecosistema | Tanto la parte analítica como la discusión ecológica son adecuadas y permiten entender bien la estructura y funcionamiento del ecosistema | Además de lo anterior, se describe cómo las especies importantes del ecosistema también pueden estar en otros tipos de ecosistemas diferentes al objetivo |
 | Estructura de las poblaciones de la especies que aportan estructura al ecosistema (15%) | No se obtiene ningún histograma con la distribución de tamaños o no se discute su contenido a la luz de la ecología | Se generan histogramas correctamente, pero la discusión ecológica deja mucho que desear | Ambas componentes (analítica y ecológica) son razonables y permiten entender la estructura de la metapoblación en cuestión | Además de lo anterior se generan histogramas sobre distintas subpoblaciones o al menos se discute sobre ello. |
 | Dinámica demográfica de las especies que aportan estructura al ecosistema (15%) | No se consigue generar ningún modelo dinámico que muestre la evolución temporal de la estructura poblacional | El modelo generado en Vensim parece correcto, pero hay mucho margen de mejora en la discusión ecológica de los resultados. | Tanto los modelos obtenidos como la discusión ecológica son razonables y ayudan a entender cómo cambiará la población en el futuro | Además de lo anterior se comparan los resultados con los de otros ecosistemas, discutiendo las diferencias a la luz de la ecología |
 | Diversidad del ecosistema (15%)                              | No se consigue obtener un mapa de diversidad del ecosistema objeto de estudio | Hay resultados digitales que muestran la distribución de la diversidad del ecosistema estudiado, pero no se discuten los resultados ecológicamente | Se discuten los resultados ecológicamente y se identifican patrones de distribución de la diversidad dentro del ecosistema en cuestión | Además de lo anterior se comparan los resultados con los de otros ecosistemas, discutiendo las diferencias a la luz de la ecología |
 | Funcionamiento del ecosistema (15%)                          | No se genera ningún mapa como los que se requieren en el guión | Se obtienen mapas, pero no se comentan ecológicamente ni se discuten los resultados | Tanto los mapas como los textos descriptivos permiten entender la dinámcia del ecosistema seleccionado desde el punto de vista de su producción primaria | Además, hay una comparación del funcionamiento del ecosistema en cuestión con otros ecosistemas. |
-| Caracterización de los servicios ecosistémicos (10%)         | No se identifican adecuadamente los servicios del ecosistema estudiado | Se identifican bien casi todos los servicios, pero no se describen adecuadamente | Se caracterizan con detalle los servicios más relevantes del ecosistema en cuestión y se esbozan formas de cuantificarlos | Además, se comparan los resultados con los de otros ecosistemas |
 | Presentación de la web (5%)                                  | La presentación deja mucho que desear. No hay imágenes y los textos son deficientes | El material está desordenado, las figuras no están bien descritas. Poco legible. | Todo el material está dispuesto de manera adecuada en la página | Además de lo anterior, hay información relevante no solicitada explicítamente en las instrucciones: vídeos, animaciones, etc. |
 
-La fecha límite de entrega de la página web será el día **8 de enero de 2026** a las 23:59.
+La fecha límite de entrega de la página web será el día **10 de enero de 2026** a las 23:59.
 
 
 
@@ -162,7 +161,7 @@ La fecha de entrega límite para este documento es el **8 de diciembre de 2025**
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/T_descripcion_tipos_ecosistemas_ecologia_ccaa/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/T_descripcion_tipos_ecosistemas_ecologia_ccaa/archive/refs/tags/2025_2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 Haz click [aquí](https://github.com/aprendiendo-cosas/T_descripcion_tipos_ecosistemas_ecologia_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
