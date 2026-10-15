@@ -1,12 +1,14 @@
 # Instrucciones para realizar el trabajo final sobre las prácticas de ecología
 
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span> 
-> + **_Versión_**: 2025-2026
+> + **_Versión_**: 2026-2027
 > + **_Asignaturas (grado)_**: SIG (CCAA) y Ecología (CCAA)
 > + **_Autores_**: Jorge Torres Sánchez (o22tosaj@uco.es ) y Curro Bonet-García (fjbonet@uco.es)
 > + **_Duración_**: Unas 5 horas en casa.
 
 ![portada](https://raw.githubusercontent.com/aprendiendo-cosas/T_descripcion_tipos_ecosistemas_ecologia_ccaa/refs/tags/2025_2026/imagenes/portada.png)
+
+[TOC]
 
 
 
@@ -36,11 +38,11 @@ Antes de detallar el "cómo" se presentará el trabajo, repasemos brevemente en 
 
 ### 1. Texto e imágenes mostrando características generales del ecosistema
 
-A modo de introducción tienes que preparar un breve texto describiendo el ecosistema con el que estás trabajando. Incluye imágenes tomadas de cuando fuimos a Sierra Nevada u otras diferentes. También puedes incluir anotaciones que hayas hecho durante la salida. 
+A modo de introducción tienes que preparar un breve texto describiendo el ecosistema con el que estás trabajando. Incluye imágenes tomadas de la excursión a Sierra Nevada u otras diferentes. También puedes incluir anotaciones que hayas hecho durante la salida. 
 
 Tanto durante la salida de como en vuestras búsquedas por internet, habréis tomado conciencia de los principales problemas de gestión del ecosistema sobre el que habéis trabajado. Sería interesante enumerar y describir brevemente dichos problemas. Podéis añadir fotos o imágenes a esta descripción. 
 
-Para preparar este texto debes de tener en cuenta los métodos descritos en la primera práctica ([Búsqueda de información sobre los ecosistemas de Sierra Nevada](https://rawcdn.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2025_2026/guion_practica_biblio.html). Debes de indicar de dónde sacas la información. Pon en práctica también las [normas que tenemos para el uso de las IA](https://aprendiendo-cosas.github.io/competencias_transversales/normas_IA/normas_IA.html).
+Para preparar este texto debes de tener en cuenta los métodos descritos en la primera práctica ([Búsqueda de información sobre los ecosistemas de Sierra Nevada](https://rawcdn.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2026_2027/guion_practica_biblio.html). Debes de indicar de dónde sacas la información. Pon en práctica también las [normas que tenemos para el uso de las IA](https://aprendiendo-cosas.github.io/competencias_transversales/normas_IA/normas_IA.html).
 
 
 
@@ -100,21 +102,13 @@ De nuevo, deberás describir con detalle cómo usas los SIG para generar la info
 
 
 
-## Presentación del trabajo: fechas de entrega y criterios de calificación
+## 8. Presentación del trabajo: fechas de entrega y criterios de calificación
 
 Dado que este trabajo sirve para dos asignaturas, tendréis que presentar dos documentos diferentes que serán calificados con criterios diferentes pero complementarios:
 
-### Para la asignatura de ecología
+### 8.1 Para la asignatura de ecología
 
-La idea es que cada persona genere una especie de ficha sintética para cada tipo de ecosistema. Se trata de un documento con no demasiado texto, pero rico en esquemas, gráficos, imágenes y mapas. Para presentarlo generaremos una página web sencilla que contenga dicho material. En esta sección se describe cómo construir dicha web.
-
-Usaremos *Google sites* para crear y publicar la página web. Se trata de un servicio de Google muy fácil de utilizar que nos permite crear páginas con contenido diverso en muy poco tiempo.
-
-El siguiente vídeo muestra cómo crear la página web en *Google Sites*:
-
-<iframe width="560" height="515" src="https://www.youtube.com/embed/A6v6LIoDHBo?si=LkNcwGqR_KYZ1qE7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
+La idea es que cada persona genere una especie de ficha sintética para cada tipo de ecosistema. Se trata de un documento con no demasiado texto, pero rico en esquemas, gráficos, imágenes y mapas. Para presentarlo ... PENSAR EN FORMA DE ENTREGA. CASI SEGURO TEXTO NORMAL
 
 El trabajo será evaluado y calificada según los criterios descritos en esta rúbrica:
 
@@ -133,7 +127,7 @@ La fecha límite de entrega de la página web será el día **10 de enero de 202
 
 
 
-### Para la asignatura de SIG
+### 8.2 Para la asignatura de SIG
 
 Tendréis que escribir un documento que describa paso a paso cómo habéis generado la información correspondiente a los siguientes apartados:
 
