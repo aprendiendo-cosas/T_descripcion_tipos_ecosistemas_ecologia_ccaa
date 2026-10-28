@@ -50,7 +50,7 @@ Para preparar este texto debes de tener en cuenta los métodos descritos en la p
 
 Para conocer bien la estructura y funcionamiento de un ecosistema es importante saber cuál es el contexto de variables abióticas: clima, relieve, etc. En una práctica de la asignatura de SIG, aprenderéis cómo extraer los valores promedios de altitud, precipitación y temperatura de los ecosistemas con los que estamos trabajando. 
 
-En [este](https://rawcdn.githack.com/aprendiendo-cosas/P_factores_abioticos_ecologia_ccaa/2025-2026/guion_factores_abioticos.html) guión tienes información detallada sobre cómo generar esta información para tu ecosistema. 
+En [este](https://rawcdn.githack.com/aprendiendo-cosas/P_factores_abioticos_ecologia_ccaa/2026_2027/guion_factores_abioticos.html) guión tienes información detallada sobre cómo generar esta información para tu ecosistema. 
 
 
 
@@ -58,7 +58,7 @@ En [este](https://rawcdn.githack.com/aprendiendo-cosas/P_factores_abioticos_ecol
 
 Disponemos de un mapa de distribución de los ecosistemas con los que trabajamos. Además de esto, resulta interesante analizar la distribución de las principales especies que constituyen los ecosistemas. En una práctica de SIG has trabajado con datos de [GBIF](https://www.gbif.org/) para hacer precisamente esto, generar un mapa de distribución de las especies clave de los ecosistemas. Con lo que has aprendido en SIG te resultará fácil generar mapas de distribución de las principales especies que dan estructura al ecosistema con el que estás trabajando. 
 
-Para aprender a hacer esto, lee [este](https://rawcdn.githack.com/aprendiendo-cosas/P_area_distribucion_especies_ecologia_sig_ccaa/2025_2026/guion_area_distribucion.html) guión que contiene todos los detalles que necesitas.
+Para aprender a hacer esto, lee [este](https://rawcdn.githack.com/aprendiendo-cosas/P_area_distribucion_especies_ecologia_sig_ccaa/2026_2027/guion_area_distribucion.html) guión que contiene todos los detalles que necesitas.
 
 
 
