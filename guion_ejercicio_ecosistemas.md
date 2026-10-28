@@ -14,7 +14,7 @@
 
 ## Objetivos 
 
-La finalidad última de este guión describir el trabajo de caracterización de los ecosistemas de Sierra Nevada que resultará de las prácticas de SIG y de ecología. De manera más específica, tiene los siguientes objetivos:
+La finalidad última de este guión es describir el trabajo de caracterización de los ecosistemas de Sierra Nevada que resultará de las prácticas de SIG y de ecología. De manera más específica, tiene los siguientes objetivos:
 
 + Disciplinares para la asignatura de ecología. En este caso el objetivo único es que los estudiantes entiendan cómo distintas variables biofísicas pueden usarse para describir los ecosistemas. Dicho de otra forma, se trata de fijar el conocimiento ya adquirido sobre la composición, estructura y funcionamiento de los ecosistemas. 
 + Competenciales: Relacionados con la adquisición de competencias genéricas.
@@ -40,7 +40,7 @@ Antes de detallar el "cómo" se presentará el trabajo, repasemos brevemente en 
 
 A modo de introducción tienes que preparar un breve texto describiendo el ecosistema con el que estás trabajando. Incluye imágenes tomadas de la excursión a Sierra Nevada u otras diferentes. También puedes incluir anotaciones que hayas hecho durante la salida. 
 
-Tanto durante la salida de como en vuestras búsquedas por internet, habréis tomado conciencia de los principales problemas de gestión del ecosistema sobre el que habéis trabajado. Sería interesante enumerar y describir brevemente dichos problemas. Podéis añadir fotos o imágenes a esta descripción. 
+Tanto durante la salida de campo como en vuestras búsquedas por internet, habréis tomado conciencia de los principales problemas de gestión del ecosistema sobre el que habéis trabajado. Sería interesante enumerar y describir brevemente dichos problemas. Podéis añadir fotos o imágenes a esta descripción. 
 
 Para preparar este texto debes de tener en cuenta los métodos descritos en la primera práctica ([Búsqueda de información sobre los ecosistemas de Sierra Nevada](https://rawcdn.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2026_2027/guion_practica_biblio.html). Debes de indicar de dónde sacas la información. Pon en práctica también las [normas que tenemos para el uso de las IA](https://aprendiendo-cosas.github.io/competencias_transversales/normas_IA/normas_IA.html).
 
