@@ -6,13 +6,13 @@
 > + **_Autores_**: Jorge Torres Sánchez (o22tosaj@uco.es ) y Curro Bonet-García (fjbonet@uco.es)
 > + **_Duración_**: Unas 5 horas en casa.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/T_descripcion_tipos_ecosistemas_ecologia_ccaa/refs/tags/2025_2026/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/T_descripcion_tipos_ecosistemas_ecologia_ccaa/refs/heads/main/imagenes/portada.jpg)
 
 [TOC]
 
 
 
-## Objetivos 
+## 1. Objetivos 
 
 La finalidad última de este guión es describir el trabajo de caracterización de los ecosistemas de Sierra Nevada que resultará de las prácticas de SIG y de ecología. De manera más específica, tiene los siguientes objetivos:
 
@@ -30,13 +30,13 @@ La finalidad última de este guión es describir el trabajo de caracterización 
 
 
 
-## Características del trabajo
+## 2. Características del trabajo
 
 Antes de detallar el "cómo" se presentará el trabajo, repasemos brevemente en qué consiste. Para ello, lo primero que debes de hacer es releer [este](https://raw.githack.com/aprendiendo-cosas/P_plan_practicas_ccaa/2026_2027/guion_plan_practicas.html) guión en el que se describen las prácticas de la asignatura de ecología. En él verás que el objetivo de las prácticas es generar un documento en el que se describen distintos tipos de ecosistema presentes en Sierra Nevada. En cada práctica hemos trabajado un aspecto concreto de dichos ecosistemas. También en las prácticas de SIG se han enseñado técnicas de manejo de información espacial que serán útiles para caracterizar los ecosistemas. De manera resumida, tendrás que generar la siguiente información sobre cada tipo de ecosistema:
 
 
 
-### 1. Texto e imágenes mostrando características generales del ecosistema
+### 2.1. Texto e imágenes mostrando características generales del ecosistema
 
 A modo de introducción tienes que preparar un breve texto describiendo el ecosistema con el que estás trabajando. Incluye imágenes tomadas de la excursión a Sierra Nevada u otras diferentes. También puedes incluir anotaciones que hayas hecho durante la salida. 
 
@@ -46,7 +46,7 @@ Para preparar este texto debes de tener en cuenta los métodos descritos en la p
 
 
 
-### 2. Caracterización de los factores abióticos de los ecosistemas
+### 2.2. Caracterización de los factores abióticos de los ecosistemas
 
 Para conocer bien la estructura y funcionamiento de un ecosistema es importante saber cuál es el contexto de variables abióticas: clima, relieve, etc. En una práctica de la asignatura de SIG, aprenderéis cómo extraer los valores promedios de altitud, precipitación y temperatura de los ecosistemas con los que estamos trabajando. 
 
@@ -54,7 +54,7 @@ En [este](https://rawcdn.githack.com/aprendiendo-cosas/P_factores_abioticos_ecol
 
 
 
-### 3. Distribución de las especies más importantes de tu ecosistema
+### 2.3. Distribución de las especies más importantes de tu ecosistema
 
 Disponemos de un mapa de distribución de los ecosistemas con los que trabajamos. Además de esto, resulta interesante analizar la distribución de las principales especies que constituyen los ecosistemas. En una práctica de SIG has trabajado con datos de [GBIF](https://www.gbif.org/) para hacer precisamente esto, generar un mapa de distribución de las especies clave de los ecosistemas. Con lo que has aprendido en SIG te resultará fácil generar mapas de distribución de las principales especies que dan estructura al ecosistema con el que estás trabajando. 
 
@@ -63,7 +63,7 @@ Para aprender a hacer esto, lee [este](https://rawcdn.githack.com/aprendiendo-co
 
 
 
-### 4. Estructura de las poblaciones de la especie clave de tu ecosistema
+### 2.4. Estructura de las poblaciones de la especie clave de tu ecosistema
 En los ecosistemas terrestres suele predominar una especie que es la que le da el nombre al ecosistema o la que condiciona fundamentalmente su estructura. La estructura de edades o de tamaños de la población de esa especie nos da información muy relevante sobre cómo puede funcionar el ecosistema. Así que, tendrás que generar un histograma de frecuencias que muestre la estructura poblacional de la especie que es responsable de la estructura del ecosistema en cuestión. 
 
 A modo de recordatorio, [aquí](https://rawcdn.githack.com/aprendiendo-cosas/P_estructura_pobs_ecologia_CCAA/2026_2027/guion_estructura_poblaciones.html) está el guión en el que se describe cómo hicimos esto. 
@@ -74,13 +74,13 @@ Además de incluir un histograma, es fundamental describirlo. Es decir, analizar
 
 
 
-### 5. Dinámica demográfica de las especies que aportan estructura de cada ecosistema. OJO, AÚN NO HEMOS TRABAJADO EN ESTA PRÁCTICA
+### 2.5. Dinámica demográfica de las especies que aportan estructura de cada ecosistema. OJO, AÚN NO HEMOS TRABAJADO EN ESTA PRÁCTICA
 
 La sección anterior nos permitió generar un histograma de frecuencias del tamaño/edad de los individuos de la población. Con esa información podemos inferir cómo se comportará el ecosistema a lo largo del tiempo, pero se trata de una fotografía fija de la dinámica poblacional. En esta práctica usamos Vensim para simular el comportamiento de la población en a lo largo del tiempo. En [este](https://raw.githack.com/aprendiendo-cosas/P_modelizacion_interacciones_ecologia_ccaa/2025_2026/guion_practica_modelizacion.html) guión puedes ver (Sección 7) cómo generar un modelo de dinámica poblacional de los distintos ecosistemas de Sierra Nevada. En el guión mencionado hay instrucciones específicas para cada tipo de ecosistema.
 
 
 
-### 6. Diversidad de los ecosistemas 
+### 2.6. Diversidad de los ecosistemas 
 
 Después de conocer la estructura de la población más importante del ecosistema en cuestión, llega el momento de hablar de la diversidad de especies que tiene. Con esta parte entramos en el ámbito de las comunidades ecológicas y las caracterizamos usando su descriptor más importante: la diversidad. En esta ocasión se realizará un análisis comparativo de la diversidad de todos los ecosistemas estudiados. En [este](https://raw.githack.com/aprendiendo-cosas/P_shannon_ecologia_ccaa/2026_2027/guion_practica_mapa_biodiversidad.html) guión se describe esta práctica. Al final del mismo podrás ver exactamente lo que tienes que generar para el ecosistema que te corresponda. Ahí va un resumen:
 + Tabla mostrando la diversidad de cada tipo de ecosistema. Tendrás que marcar con un color diferente el ecosistema que te haya tocado. También explicar por qué tu ecosistema tiene la diversidad que tiene en comparación con los demás. 
@@ -88,7 +88,7 @@ Después de conocer la estructura de la población más importante del ecosistem
 
 
 
-### 7. Funcionamiento de los ecosistemas. OJO, AÚN NO HEMOS TRABAJADO EN ESTA PRÁCTICA
+### 2.7. Funcionamiento de los ecosistemas. OJO, AÚN NO HEMOS TRABAJADO EN ESTA PRÁCTICA
 
 Tras analizar algunos elementos estructurales, es el momento de conocer mejor cómo funciona el ecosistema. En concreto, trabajamos con la producción primaria, que es fácilmente cuantificable usando imágenes de satélite. Al final del guión correspondiente ([aquí](https://rawcdn.githack.com/aprendiendo-cosas/P_NDVI_ecologia_ccaa/2025_2026/guion_ndvi.html)) puedes ver con detalle lo que os recomendamos incluir sobre este aspecto. Lo resumimos aquí también:
 
@@ -102,11 +102,11 @@ De nuevo, deberás describir con detalle cómo usas los SIG para generar la info
 
 
 
-## 8. Presentación del trabajo: fechas de entrega y criterios de calificación
+## 2.8. Presentación del trabajo: fechas de entrega y criterios de calificación
 
 Dado que este trabajo sirve para dos asignaturas, tendréis que presentar dos documentos diferentes que serán calificados con criterios diferentes pero complementarios:
 
-### 8.1 Para la asignatura de ecología
+### 2.8.1 Para la asignatura de ecología
 
 La idea es que cada persona genere una especie de ficha sintética para cada tipo de ecosistema. Se trata de un documento con no demasiado texto, pero rico en esquemas, gráficos, imágenes y mapas. La fecha límite de entrega de la página web será el día **10 de enero de 2026** a las 23:59. Sube el trabajo usando [este](https://script.google.com/macros/s/AKfycbzeGHJP825IyNO8D__dFUmBCrPHR4rUlRVckv3p80G3bDUjbA9tD8uUPZXkFVTxGY61hQ/exec) formulario. Ten en cuenta que en el formulario tendrás que ir pegando fragmentos de texto correspondientes a cada bloque y podrás subir evidencias de distinto tipo (imágenes, archivos o direcciones web) correspondientes a cada uno de los bloques del trabajo. Cuando termines, dale al botón de enviar. Tardará unos minutos en subir todo el material. Mientras eso ocurre, no cierres la página. El formulario te avisará cuando haya subido todos los archivos.
 
@@ -127,13 +127,15 @@ El trabajo será evaluado y calificada según los criterios descritos en esta r�
 
 
 
-### 8.2 Para la asignatura de SIG
+### 2.8.2 Para la asignatura de SIG
 
 Tendréis que escribir un documento que describa paso a paso cómo habéis generado la información correspondiente a los siguientes apartados:
 
 + Caracterización de los factores abióticos.
 + Mapa de distribución de especies dominantes de cada ecosistema.
 + Caracterización de la producción primaria de los ecosistemas mediante teledetección (NDVI). 
+
+La fecha de entrega límite para este documento es el **8 de diciembre de 2026** a las 23:59
 
 El trabajo se calificará según la siguiente rúbrica:
 
@@ -148,7 +150,7 @@ El trabajo se calificará según la siguiente rúbrica:
 
 
 
-La fecha de entrega límite para este documento es el **8 de diciembre de 2026** a las 23:59
+
 
 
 
