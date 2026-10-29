@@ -1,4 +1,4 @@
-# Instrucciones para realizar el trabajo final sobre las prácticas de ecología
+# Instrucciones para realizar el trabajo final sobre las prácticas de ecología y SIG
 
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span> 
 > + **_Versión_**: 2026-2027
@@ -32,7 +32,7 @@ La finalidad última de este guión es describir el trabajo de caracterización 
 
 ## Características del trabajo
 
-Antes de detallar el "cómo" se presentará el trabajo, repasemos brevemente en qué consiste. Para ello, lo primero que debes de hacer es releer [este](https://raw.githack.com/aprendiendo-cosas/P_plan_practicas_ccaa/2025_2026/guion_plan_practicas.html) guión en el que se describen las prácticas de la asignatura de ecología. En él verás que el objetivo de las prácticas es generar un documento en el que se describen distintos tipos de ecosistema presentes en Sierra Nevada. En cada práctica hemos trabajado un aspecto concreto de dichos ecosistemas. También en las prácticas de SIG se han enseñado técnicas de manejo de información espacial que serán útiles para caracterizar los ecosistemas. De manera resumida, tendrás que generar la siguiente información sobre cada tipo de ecosistema:
+Antes de detallar el "cómo" se presentará el trabajo, repasemos brevemente en qué consiste. Para ello, lo primero que debes de hacer es releer [este](https://raw.githack.com/aprendiendo-cosas/P_plan_practicas_ccaa/2026_2027/guion_plan_practicas.html) guión en el que se describen las prácticas de la asignatura de ecología. En él verás que el objetivo de las prácticas es generar un documento en el que se describen distintos tipos de ecosistema presentes en Sierra Nevada. En cada práctica hemos trabajado un aspecto concreto de dichos ecosistemas. También en las prácticas de SIG se han enseñado técnicas de manejo de información espacial que serán útiles para caracterizar los ecosistemas. De manera resumida, tendrás que generar la siguiente información sobre cada tipo de ecosistema:
 
 
 
@@ -66,7 +66,7 @@ Para aprender a hacer esto, lee [este](https://rawcdn.githack.com/aprendiendo-co
 ### 4. Estructura de las poblaciones de la especie clave de tu ecosistema
 En los ecosistemas terrestres suele predominar una especie que es la que le da el nombre al ecosistema o la que condiciona fundamentalmente su estructura. La estructura de edades o de tamaños de la población de esa especie nos da información muy relevante sobre cómo puede funcionar el ecosistema. Así que, tendrás que generar un histograma de frecuencias que muestre la estructura poblacional de la especie que es responsable de la estructura del ecosistema en cuestión. 
 
-A modo de recordatorio, [aquí](https://rawcdn.githack.com/aprendiendo-cosas/P_estructura_pobs_ecologia_CCAA/2025_2026/guion_estructura_poblaciones.html) está el guión en el que se describe cómo hicimos esto. 
+A modo de recordatorio, [aquí](https://rawcdn.githack.com/aprendiendo-cosas/P_estructura_pobs_ecologia_CCAA/2026_2027/guion_estructura_poblaciones.html) está el guión en el que se describe cómo hicimos esto. 
 
 Dependiendo del ecosistema en cuestión, el histograma tendrá formas diferentes. Además, podrá haber distintos histogramas por ecosistema según el caso. También puedes generar histogramas a partir de fuentes de datos diferentes a las vistas en clase.
 
@@ -74,7 +74,7 @@ Además de incluir un histograma, es fundamental describirlo. Es decir, analizar
 
 
 
-### 5. Dinámica demográfica de las especies que aportan estructura de cada ecosistema
+### 5. Dinámica demográfica de las especies que aportan estructura de cada ecosistema. OJO, AÚN NO HEMOS TRABAJADO EN ESTA PRÁCTICA
 
 La sección anterior nos permitió generar un histograma de frecuencias del tamaño/edad de los individuos de la población. Con esa información podemos inferir cómo se comportará el ecosistema a lo largo del tiempo, pero se trata de una fotografía fija de la dinámica poblacional. En esta práctica usamos Vensim para simular el comportamiento de la población en a lo largo del tiempo. En [este](https://raw.githack.com/aprendiendo-cosas/P_modelizacion_interacciones_ecologia_ccaa/2025_2026/guion_practica_modelizacion.html) guión puedes ver (Sección 7) cómo generar un modelo de dinámica poblacional de los distintos ecosistemas de Sierra Nevada. En el guión mencionado hay instrucciones específicas para cada tipo de ecosistema.
 
@@ -82,13 +82,13 @@ La sección anterior nos permitió generar un histograma de frecuencias del tama
 
 ### 6. Diversidad de los ecosistemas 
 
-Después de conocer la estructura de la población más importante del ecosistema en cuestión, llega el momento de hablar de la diversidad de especies que tiene. Con esta parte entramos en el ámbito de las comunidades ecológicas y las caracterizamos usando su descriptor más importante: la diversidad. En esta ocasión se realizará un análisis comparativo de la diversidad de todos los ecosistemas estudiados. En [este](https://raw.githack.com/aprendiendo-cosas/P_shannon_ecologia_ccaa/2025_2026/guion_practica_mapa_biodiversidad.html) guión se describe esta práctica. Al final del mismo podrás ver exactamente lo que tienes que generar para el ecosistema que te corresponda. Ahí va un resumen:
+Después de conocer la estructura de la población más importante del ecosistema en cuestión, llega el momento de hablar de la diversidad de especies que tiene. Con esta parte entramos en el ámbito de las comunidades ecológicas y las caracterizamos usando su descriptor más importante: la diversidad. En esta ocasión se realizará un análisis comparativo de la diversidad de todos los ecosistemas estudiados. En [este](https://raw.githack.com/aprendiendo-cosas/P_shannon_ecologia_ccaa/2026_2027/guion_practica_mapa_biodiversidad.html) guión se describe esta práctica. Al final del mismo podrás ver exactamente lo que tienes que generar para el ecosistema que te corresponda. Ahí va un resumen:
 + Tabla mostrando la diversidad de cada tipo de ecosistema. Tendrás que marcar con un color diferente el ecosistema que te haya tocado. También explicar por qué tu ecosistema tiene la diversidad que tiene en comparación con los demás. 
 + Mapa de la diversidad del ecosistema seleccionado. Esto no es obligatorio, pero es fácil de hacer. Basta con hacer un clip (herramienta "cortar raster por capa de máscara" en QGIS) entre la capa raster con el índice de Shannon que obtuvimos para toda Sierra Nevada y la delimitación de tu ecosistema. Este mapa te dará información sobre cómo se distribuye la diversidad dentro del ecosistema. Podrás contestar a preguntas como: ¿cómo varía la distribución del ecosistema A de este a oeste? ¿a qué se debe ese patrón?. Si incluyes este mapa, analízalo a la luz de lo visto en la asignatura. Describe también cómo has hecho este proceso con SIG.
 
 
 
-### 7. Funcionamiento de los ecosistemas 
+### 7. Funcionamiento de los ecosistemas. OJO, AÚN NO HEMOS TRABAJADO EN ESTA PRÁCTICA
 
 Tras analizar algunos elementos estructurales, es el momento de conocer mejor cómo funciona el ecosistema. En concreto, trabajamos con la producción primaria, que es fácilmente cuantificable usando imágenes de satélite. Al final del guión correspondiente ([aquí](https://rawcdn.githack.com/aprendiendo-cosas/P_NDVI_ecologia_ccaa/2025_2026/guion_ndvi.html)) puedes ver con detalle lo que os recomendamos incluir sobre este aspecto. Lo resumimos aquí también:
 
@@ -108,7 +108,7 @@ Dado que este trabajo sirve para dos asignaturas, tendréis que presentar dos do
 
 ### 8.1 Para la asignatura de ecología
 
-La idea es que cada persona genere una especie de ficha sintética para cada tipo de ecosistema. Se trata de un documento con no demasiado texto, pero rico en esquemas, gráficos, imágenes y mapas. Para presentarlo ... PENSAR EN FORMA DE ENTREGA. CASI SEGURO TEXTO NORMAL
+La idea es que cada persona genere una especie de ficha sintética para cada tipo de ecosistema. Se trata de un documento con no demasiado texto, pero rico en esquemas, gráficos, imágenes y mapas. La fecha límite de entrega de la página web será el día **10 de enero de 2026** a las 23:59. Sube el trabajo usando [este](https://script.google.com/macros/s/AKfycbzeGHJP825IyNO8D__dFUmBCrPHR4rUlRVckv3p80G3bDUjbA9tD8uUPZXkFVTxGY61hQ/exec) formulario. Ten en cuenta que en el formulario tendrás que ir pegando fragmentos de texto correspondientes a cada bloque y podrás subir evidencias de distinto tipo (imágenes, archivos o direcciones web) correspondientes a cada uno de los bloques del trabajo. Cuando termines, dale al botón de enviar. Tardará unos minutos en subir todo el material. Mientras eso ocurre, no cierres la página. El formulario te avisará cuando haya subido todos los archivos.
 
 El trabajo será evaluado y calificada según los criterios descritos en esta rúbrica:
 
@@ -123,7 +123,7 @@ El trabajo será evaluado y calificada según los criterios descritos en esta r�
 | Funcionamiento del ecosistema (15%)                          | No se genera ningún mapa como los que se requieren en el guión | Se obtienen mapas, pero no se comentan ecológicamente ni se discuten los resultados | Tanto los mapas como los textos descriptivos permiten entender la dinámcia del ecosistema seleccionado desde el punto de vista de su producción primaria | Además, hay una comparación del funcionamiento del ecosistema en cuestión con otros ecosistemas. |
 | Presentación de la web (5%)                                  | La presentación deja mucho que desear. No hay imágenes y los textos son deficientes | El material está desordenado, las figuras no están bien descritas. Poco legible. | Todo el material está dispuesto de manera adecuada en la página | Además de lo anterior, hay información relevante no solicitada explicítamente en las instrucciones: vídeos, animaciones, etc. |
 
-La fecha límite de entrega de la página web será el día **10 de enero de 2026** a las 23:59.
+
 
 
 
@@ -148,14 +148,14 @@ El trabajo se calificará según la siguiente rúbrica:
 
 
 
-La fecha de entrega límite para este documento es el **8 de diciembre de 2025** a las 23:59
+La fecha de entrega límite para este documento es el **8 de diciembre de 2026** a las 23:59
 
 
 
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/T_descripcion_tipos_ecosistemas_ecologia_ccaa/archive/refs/tags/2025_2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/T_descripcion_tipos_ecosistemas_ecologia_ccaa/archive/refs/tags/2026_2027.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 Haz click [aquí](https://github.com/aprendiendo-cosas/T_descripcion_tipos_ecosistemas_ecologia_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
